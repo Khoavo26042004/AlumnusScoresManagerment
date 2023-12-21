@@ -1,6 +1,6 @@
 # Alumnus Scores Managerment
 + This project will help you built a scores manager system.
-#IDE used:
+# IDE used:
   netbeans 8.2
 # JAR Dependencies:
   + Download Microsoft JDBC Driver 12.4 for SQL Server (zip)
