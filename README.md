@@ -1,4 +1,4 @@
-**#Alumnus Scores Managerment **
+#**Alumnus Scores Managerment **
 This project will help you built a scores manager system.
 #IDE used:
   netbeans 8.2
