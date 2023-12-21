@@ -1,5 +1,5 @@
 #Alumnus Scores Managerment 
-  This project will help you built a scores manager system.<space><space>
+ <space> This project will help you built a scores manager system.<space>
 #IDE used:
   netbeans 8.2
 #JAR Dependencies:
