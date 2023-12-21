@@ -11,16 +11,17 @@
   + Run all table in the sql  
   + Run Insert Into  
 # Setting project in netbeans:
-  Right click on Database -> New Connection -> Add -> add mssql-jdbc-12.4.1-jre11.jar      
+  + Step 1: Right click on Database -> New Connection -> Add -> add mssql-jdbc-12.4.1-jre11.jar        
   ![image](https://github.com/Khoavo26042004/AlumnusScoresManagerment/assets/154489298/33f8949d-9a11-44a8-818a-df35917d8b40) ![image](https://github.com/Khoavo26042004/AlumnusScoresManagerment/assets/154489298/21397bed-b151-42a4-9223-1437dd8fbca4)
   
-  Click on Next button   
-  ![image](https://github.com/Khoavo26042004/AlumnusScoresManagerment/assets/154489298/84eae431-2bde-421f-a5ed-9c45b1c60593)  
+  + Step 2:Click on Next button  
   + At Database line is your the project name in sql.Example: Above I have a name database is QLSinhVien  
   + At User Name and Password line, it is your usename and password int sqlserver  
   + At The JDBC URL, you must add more this code ";encrypt=true;trustServerCertificate=true;" at the end the line and press the Test Connection button(remember coppy code in the JDBC URL line) -> press Next button two times and finish  
   + In sources packages, open the file named MySQLConnection in qlsinhvien -> changes the url(Here, paste the one I asked you to copy above),user(your username in sql),pass(your password in sql)  
-  +And run my project.
+  +And run my project.  
+  ![image](https://github.com/Khoavo26042004/AlumnusScoresManagerment/assets/154489298/84eae431-2bde-421f-a5ed-9c45b1c60593)  
+  
 
 # Useraccount of alumnus and lecturer 
   + MSSV(of alumnus),MaGV(of lecturer)-(username)   
