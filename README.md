@@ -18,7 +18,7 @@
    Step 2:Click on Next button  
   + At Database line is your the project name in sql.Example: Above I have a name database is QLSinhVien  
   + At User Name and Password line, it is your usename and password in sqlserver  
-  + At The JDBC URL, you must add more this code ";encrypt=true;trustServerCertificate=true;" at the end the line and press the Test Connection button(remember coppy code in the JDBC URL line) -> press Next button two times and finish   
+  + At The JDBC URL, you must add more this code ";encrypt=true;trustServerCertificate=true;" at the end of the line and press the Test Connection button(remember coppy code in the JDBC URL line) -> press Next button two times and finish   
     ![image](https://github.com/Khoavo26042004/AlumnusScoresManagerment/assets/154489298/84eae431-2bde-421f-a5ed-9c45b1c60593)  
     ![image](https://github.com/Khoavo26042004/AlumnusScoresManagerment/assets/154489298/58f1cd06-2a2d-48ac-b6b6-d88f26075861)  
     ![image](https://github.com/Khoavo26042004/AlumnusScoresManagerment/assets/154489298/c268baf3-8654-4894-8662-97855353edfd)  
