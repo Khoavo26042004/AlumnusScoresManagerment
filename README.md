@@ -29,7 +29,7 @@
 ![image](https://github.com/Khoavo26042004/AlumnusScoresManagerment/assets/154489298/ad1244b1-8ca6-485c-9a66-159e5634f8f9)  
 ![image](https://github.com/Khoavo26042004/AlumnusScoresManagerment/assets/154489298/35a82c4f-a344-4432-ad3d-c04d359efe48)  
 
-# SOME IMAGES OF THE PROJECT 
+# Some images of the project: 
   + MSSV(of alumnus),MaGV(of lecturer)-(username)
   + MatKhau(both alumnus and lecturer)-(password)
   + Login of alumnus:  
